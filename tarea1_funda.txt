@@ -1,4 +1,15 @@
 git init inicia el repositorio en la carpeta donde estemos ubicados
 
-git config --local user.email "example" establece el usuario que esta realizando los cambios 
+git config --local user.email "example" establece el usuario que esta realizando los cambios
+ 
+ git config --local user.name "example" establece el usuario que esta realizando los cambios.
 
+git commit -m "example" comentar los cambios que hemos hecho 
+
+git push guardamos nuestros cambios en la nube y los agregamos a la rama principal 
+
+git pull se usa para actualizar nuestro repositorio con los utlimos de la nube
+
+git clone se usa para copiar un repositorio y trabajar con el en nuestra maquina 
+
+git remote add origin "url del repositorio" añadimos el lugar en la nube donde subiremos el repositorio 
