@@ -1,0 +1,4 @@
+git init inicia el repositorio en la carpeta donde estemos ubicados
+
+git config --local user.email "example" establece el usuario que esta realizando los cambios 
+
